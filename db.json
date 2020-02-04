@@ -22,14 +22,6 @@
         "price": 30,
         "professor": "Alexis Lozada",
         "imageProfessor": "https://api.ed.team/files/avatars/747dea4d-4438-4a7e-904a-427a5cd6aac7.jpg"
-    },
-    {
-        "id": 4,
-        "title": "HTML5 desde cero",
-        "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/HTML-2018.jpg?itok=Gyvm-W9t",
-        "price": 27,
-        "professor": "Alvaro Felipe",
-        "imageProfessor": "https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg"
     }
   ]
 }
